@@ -1,6 +1,6 @@
 ## The Supporter <!---$7 -->
 
-No perks. You are just a saintly person that wants to support my work out of pure goodness. :pray: :heart:
+You are cool AF and get a sweet sponsor badge :pray: :heart:
 
 <!--- I'm thinking that support should be $7 -->
 
@@ -65,8 +65,9 @@ You just got a hot stack of cash from your series A round and you're looking to 
     * Early team access to content like tutorials, videos, swag, and kits
     * I'll follow your team on social media and publicly thank your company for your support via twitter
     * Logo/link listed on the Poly landing page and README
-    * Logo in thanks from our sponsors slide for talks/recorded video
     * Twelve job postings per month on Poly's job board that also gets sent out as a newsletter
+    * Logo in thanks from our sponsors slide for talks/recorded video
+
 
 ## The Enterprise <!--- 2499 -->
 
@@ -79,8 +80,9 @@ You're company has been around and you want to show you're continuing to work on
     * Early team access to content like tutorials, videos, swag, and kits
     * I'll follow your team on social media and publicly thank your company for your support via twitter
     * Logo/link listed prominently on the Poly landing page
-    * Logo in thanks from our sponsors slide for talks/recorded video
     * Thirty job postings per month on Poly's job board that also gets sent out as a newsletter
+    * Logo in thanks from our sponsors slide for talks/recorded video
+
     
 
 
@@ -95,8 +97,6 @@ You want people to know you support my projects in a big way. You believe in the
     * Early team access to content like tutorials, videos, swag, and kits
     * I'll follow your team on social media and publicly thank your company for your support via twitter
     * Logo/link prominently placed on Poly's landing page, along with placements on every page of the doc site and blog
-    * Large logo in, "thanks from our sponsors slide", for talks/recorded video
     * As many job postings as you want on Poly's job board that also gets sent out as part of our newsletter
+    * Large logo in, "thanks from our sponsors slide", for talks/recorded video
     * A, "Thanks to our sponsors", shout out at almost every event.
-    
-    
