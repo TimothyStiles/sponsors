@@ -42,7 +42,7 @@ You might be a solo dev that uses software I work on. You might maintain an app 
 
 ## The Lab <!--- $250 -->
 
-You have some spare grant money that's going to go to waste if not spent and you want to show your lab members that you believe in good science and good software. Thank you!
+You have some spare grant money that's going to go to waste if you don't spend it and you want to show your lab members that you believe in good science and good software. Thank you!
 
 
 ### Perks
@@ -86,7 +86,7 @@ You're company has been around and you want to show you're continuing to work on
 
 ## The Prestige <!---$4999 -->
 
-You want people to know you support my projects in a big way. You believe in the future of synthethic biology and you believe that that future relies on the kind of cutting edge, community minded software that open source provides. For all of your support, from the deepest of my heart, thank you.
+You want people to know you support my projects in a big way. You believe in the future of synthethic biology and you believe that that future relies on the kind of cutting edge, community minded software that open source provides. For all of your support, from the deepest part of my heart, thank you.
 
 ### Perks
 
