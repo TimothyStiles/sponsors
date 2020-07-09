@@ -68,7 +68,7 @@ You just got a hot stack of cash from your series A round and you're looking to 
     * Logo in thanks from our sponsors slide for talks/recorded video
     * Twelve job postings per month on Poly's job board that also gets sent out as a newsletter
 
-## The Established <!--- 2499 -->
+## The Enterprise <!--- 2499 -->
 
 You're company has been around and you want to show you're continuing to work on the bleeding edge of synthethic biology. Thank you!
 
