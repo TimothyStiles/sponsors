@@ -43,7 +43,7 @@ You want people to know you support my projects in a big way. You believe in the
 
     * Access to Sponsorware(Things I release only to sponsors)
     * Access to my Discord server where I hang out digitally for executive and dev teams.
-    * Logo/link prominently placed on Poly's landing page, along with minor placements on every page of the doc site and blog.
+    * Logo/link prominently placed on Poly's landing page, along with placements on every page of the doc site and blog.
     * As many job postings as you want on Poly's job board that also gets sent out as part of our newsletter.
     
     
