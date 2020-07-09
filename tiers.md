@@ -27,9 +27,9 @@ You enjoy my work and want to support it, but $14 feels low for the value you're
     * Early access to content like tutorials, videos, swag, and kits
     * I'll follow you on social media and publicly thank you for your support via twitter
 
-## The Freelancer <!---$99 -->
+## The Agent <!---$99 -->
 
-You might be a solo dev that uses software I work on. You might maintain an app or two for yourself or a few clients. You make decent money, but you're not rolling in it. Show some love.
+You might be a solo dev that uses software I work on. You might maintain an app or two for yourself or a few clients or maybe you're looking to invest in someone who does. You make decent money, but you're not rolling in it. Show some love.
 
 ### Perks
 
