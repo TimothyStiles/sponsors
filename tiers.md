@@ -71,7 +71,7 @@ You just got a hot stack of cash from your series A round and you're looking to 
 
 ## The Enterprise <!--- 2499 -->
 
-You're company has been around and you want to show you're continuing to work on the bleeding edge of synthethic biology. Thank you!
+Your company has been around and you want to show you're continuing to work on the bleeding edge of synthethic biology. Thank you!
 
 ### Perks
 
