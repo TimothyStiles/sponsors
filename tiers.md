@@ -87,6 +87,7 @@ You want people to know you support my projects in a big way. You believe in the
 
     * Access to Sponsorware(Things I release only to sponsors)
     * Team access to my Discord where I hang out digitally and host events like talks, panels, journal clubs and game nights
+    * Early team access to content like tutorials, videos, swag, and kits
     * Logo/link prominently placed on Poly's landing page, along with placements on every page of the doc site and blog
     * Large logo in, "thanks from our sponsors slide", for talks/recorded video
     * As many job postings as you want on Poly's job board that also gets sent out as part of our newsletter
