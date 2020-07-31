@@ -42,7 +42,7 @@ You might be a solo dev that uses software I work on. You might maintain an app 
 
 ## The Lab <!--- $250 -->
 
-You have some spare grant money that's going to go to waste if you don't spend it and you want to show your lab members that you believe in good science and good software. Thank you!
+You have some spare grant money that's going to go to waste if you don't spend it and you believe in good science and good software. Thank you!
 
 
 ### Perks
@@ -98,5 +98,5 @@ You want people to know you support my projects in a big way. You believe in the
     * I'll follow your team on social media and publicly thank your company for your support via twitter
     * Logo/link prominently placed on Poly's landing page, along with placements on every page of the doc site and blog
     * As many job postings as you want on Poly's job board that also gets sent out as part of our newsletter
-    * Large logo in, "thanks from our sponsors slide", for talks/recorded video
+    * Large logo/picture in, "thanks from our sponsors slide", for talks/recorded video
     * A, "Thanks to our sponsors", shout out at almost every event.
